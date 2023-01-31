@@ -1,7 +1,7 @@
 ---
 title: "City of Soul 魂の街 영혼의 도시"
 author: "DK"
-date: "2023-01-24"
+date: "2023-01-23"
 categories: [travel, japan]
 image: "IMG_2790.JPG"
 ---
