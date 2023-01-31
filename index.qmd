@@ -1,5 +1,5 @@
 ---
-title: "dk_log"
+title: "Remembering Days Gone By"
 listing:
   contents: posts
   sort: "date desc"
