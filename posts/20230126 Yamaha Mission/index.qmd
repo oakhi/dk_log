@@ -5,6 +5,7 @@ date: "2023-01-26"
 categories: [sound, yamaha, mission]
 image: "20230131_190819.jpg"
 ---
+  
 ## Yamaha A-760 Amplifier
 
 ### Specifications^[https://www.hifiengine.com/manual_library/yamaha/a-760.shtml]
@@ -71,6 +72,20 @@ Compared to Mission, other sound reproducing speakers sound somewhat muffled or 
 
 >A permanent bias toward higher frequency on the graphic equalizer
 
+## Speaker Placement
+
+- Right Speaker
+
+66 inches off the ground
+
+- Left Speaker
+
+76 inches off the ground
+
+- Space between speakers
+
+70 inches
+
 ## Listening Modes
 
 Listen to FM Stations, some trouble locking in weaker stations.
@@ -80,3 +95,8 @@ Not sure about the function of `REC CAL`
 Could use MANUAL Tuning Mode, in case signals are weak.
 
 > This combo makes oldies station sound better than modern music stations.
+
+Ride Like the Wind^[Connected into AUX using RCA cables and an `AuraTek` BlueTooth Adapter] - Christopher Cross, highlights, or pushes to the front the smooth vocals of Cross and MacDonald.
+
+
+ROCKIN'-in-the-USA, has a virtual drummer hidden between the speakers.
