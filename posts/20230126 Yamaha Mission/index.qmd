@@ -5,8 +5,10 @@ date: "2023-01-26"
 categories: [sound, yamaha, mission]
 image: "20230131_190819.jpg"
 ---
-  
-## Yamaha A-760 Amplifier
+
+A 1980s Combination
+
+## Yamaha A-760 Amplifier - Year 1980
 
 ### Specifications^[https://www.hifiengine.com/manual_library/yamaha/a-760.shtml]
 
@@ -24,7 +26,7 @@ image: "20230131_190819.jpg"
 
 ![](20230129_151233.jpg)
 
-## Yamaha T-760 Tuner
+## Yamaha T-760 Tuner - Year 1981
 
 ### Specifications^[https://www.hifiengine.com/manual_library/yamaha/t-760.shtml]
 
@@ -49,6 +51,10 @@ image: "20230131_190819.jpg"
 The 717 is a brand new addition to the Mission range, Here, the greatest challenge to our design team was to ensure a significant advance over the 700, which has presented genuine competition to many models costing substantially more.
 Mission 717's will now set a completely new standard of quality in their price category and will be one of our most formidable products for the 1980's.
 It offers a rare combination of accuracy, low colouration, high dynamic range, high efficiency and high power handling.
+
+> The Mission 717 is part of a range of four speakers produced in the late 1970s early 1980s, consisting of the 700, 717, 727 and 770
+
+- From AudioKarma^[https://audiokarma.org/forums/index.php?threads/mission-717-speakers.526915/]
 
 ### Specifications
 
