@@ -1,0 +1,109 @@
+---
+title: "Yamaha and Onkyo CD"
+author: "DK"
+date: "2023-01-27"
+categories: [sound, yamaha, onkyo]
+image: "20230201_203604.jpg"
+---
+
+## Yamaha RX-V2200 Receiver - Year 2003
+
+### Specifications^[https://www.hifiengine.com/manual_library/yamaha/rx-v2200.shtml]
+
+- Tuning range: FM, MW
+
+- Power output: 100 watts per channel into 8Ω (stereo)
+
+- Surround output: 100W (front), 100W (center), 100W (rear)
+
+- Frequency response: 10Hz to 100kHz
+
+- Total harmonic distortion: 0.04%
+
+- Damping factor: 80
+
+- Input sensitivity: 2.5mV (MM), 150mV (line)
+
+- Signal to noise ratio: 86dB (MM), 100dB (line)
+
+- Channel separation: 55dB (MM), 45dB (line)
+
+- Output: 150mV (line), 2.57V (Pre out)
+
+- Digital inputs: coaxial, optical
+
+- Video Connections: component, composite, SVHS
+
+- Dimensions: 435 x 171 x 431.5mm
+
+- Weight: 15kg
+
+- Finish: black, gold
+
+- Accessories: remote control
+
+- Year: 2003
+
+this model contains many of the well-known `DSP` Digital Signal Processing libraries
+
+(these are accessed behind the drop down front door)
+
+- Jazz Club
+- Rock Concert
+- Movie Theatre - 70mm Spectacle
+
+These modes are cancelled by pressing the `Stereo Effect` button
+
+Input are selected by toggling the left and right buttons next to the large Volume button.
+
+### Back Panel
+
+![speaker connections](20230202_195656.jpg)
+
+![analog and digital inputs/outputs](20230202_195642.jpg)
+
+### Functions not yet tested
+
+- 6 CH Input
+- Processor Direct
+![](20230202_194106.jpg)
+
+## Onkyo CD Recorder DX-RD511
+
+### Specifications^[https://www.hifiengine.com/manual_library/onkyo/dx-rd511.shtml]
+
+- Disc format: CD (2 disc multi play)
+
+- Digital converter: 1-bit, 8 x oversampling
+
+- Frequency response: 5Hz to 20kHz
+
+- Dynamic range: 90dB
+
+- Signal to Noise Ratio: 100dB
+
+- Channel separation: 100dB
+
+- Total harmonic distortion: 0.0056%
+
+- Line output: 2V
+
+- Digital outputs: coaxial, optical
+
+- Dimensions: 435 x 91 x 305mm
+
+- Weight: 4.3kg
+
+- Accessories: RC-411C remote control
+
+A complicated unit to master
+
+Changing between CD and CD-R side is not intuitive
+
+![](20230202_194129.jpg)
+
+The backside has both analog and digital inputs and outputs.
+
+In addition to digital coaxial output connections, there is a SPDIF input to the CD-R side.
+
+![](20230202_195629.jpg)
