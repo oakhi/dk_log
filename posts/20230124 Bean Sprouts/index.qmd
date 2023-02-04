@@ -3,7 +3,7 @@ title: "(Mung) Bean Sprouts"
 author: "DK"
 date: "2023-01-24"
 categories: [food, beans]
-image: "IMG_4330.jpg"
+image: "IMG_4330.JPG"
 ---
 
 I have eaten my share of bean sprouts; as a soup, a side dish, in the rice.
