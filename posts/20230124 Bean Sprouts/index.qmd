@@ -1,7 +1,7 @@
 ---
 title: "(Mung) Bean Sprouts"
 author: "DK"
-date: "2023-01-24"
+date: "2023-01-27"
 categories: [food, beans]
 image: "IMG_4330.JPG"
 ---
