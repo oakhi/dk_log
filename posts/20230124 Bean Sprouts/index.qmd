@@ -3,7 +3,7 @@ title: "(Mung) Bean Sprouts"
 author: "DK"
 date: "2023-01-24"
 categories: [food, beans]
-image: "IMG_0309.jpg"
+image: "IMG_4330.jpg"
 ---
 
 I have eaten my share of bean sprouts; as a soup, a side dish, in the rice.
@@ -24,9 +24,17 @@ Our primary source of protein were bean varieties.
 
 Now looking back, it was prepared with local seasoning common to PyongYang area.
 
-![숙주나물^[mung bean sprouts]](IMG_4330.JPG)
+![숙주나물[^1]](IMG_4330.JPG)
 
-![콩나물^[bean sprouts]](IMG_3134.JPG)
+[^1]: mung bean sprouts
+
+[^2]: mung bean sprouts
+
+![콩나물[^3]](IMG_3134.JPG)
+
+[^3]: bean sprouts
+
+[^4]: bean sprouts
 
 ![Modern Day Feast](IMG_0897.JPG)
 
