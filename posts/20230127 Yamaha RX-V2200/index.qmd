@@ -1,7 +1,7 @@
 ---
 title: "Yamaha and Onkyo CD"
 author: "DK"
-date: "2023-01-27"
+date: "2023-01-28"
 categories: [sound, yamaha, onkyo]
 image: "20230201_203604.jpg"
 ---
@@ -10,49 +10,51 @@ Early 2000s, A Home Theatre Model
 
 ## Yamaha RX-V2200 Receiver - Year 2003
 
-### Specifications^[https://www.hifiengine.com/manual_library/yamaha/rx-v2200.shtml]
+### Specifications[^1]
 
-- Tuning range: FM, MW
+[^1]: https://www.hifiengine.com/manual_library/yamaha/rx-v2200.shtml
 
-- Power output: 100 watts per channel into 8Ω (stereo)
+-   Tuning range: FM, MW
 
-- Surround output: 100W (front), 100W (center), 100W (rear)
+-   Power output: 100 watts per channel into 8Ω (stereo)
 
-- Frequency response: 10Hz to 100kHz
+-   Surround output: 100W (front), 100W (center), 100W (rear)
 
-- Total harmonic distortion: 0.04%
+-   Frequency response: 10Hz to 100kHz
 
-- Damping factor: 80
+-   Total harmonic distortion: 0.04%
 
-- Input sensitivity: 2.5mV (MM), 150mV (line)
+-   Damping factor: 80
 
-- Signal to noise ratio: 86dB (MM), 100dB (line)
+-   Input sensitivity: 2.5mV (MM), 150mV (line)
 
-- Channel separation: 55dB (MM), 45dB (line)
+-   Signal to noise ratio: 86dB (MM), 100dB (line)
 
-- Output: 150mV (line), 2.57V (Pre out)
+-   Channel separation: 55dB (MM), 45dB (line)
 
-- Digital inputs: coaxial, optical
+-   Output: 150mV (line), 2.57V (Pre out)
 
-- Video Connections: component, composite, SVHS
+-   Digital inputs: coaxial, optical
 
-- Dimensions: 435 x 171 x 431.5mm
+-   Video Connections: component, composite, SVHS
 
-- Weight: 15kg
+-   Dimensions: 435 x 171 x 431.5mm
 
-- Finish: black, gold
+-   Weight: 15kg
 
-- Accessories: remote control
+-   Finish: black, gold
 
-- Year: 2003
+-   Accessories: remote control
+
+-   Year: 2003
 
 this model contains many of the well-known `DSP` Digital Signal Processing libraries
 
 (these are accessed behind the drop down front door)
 
-- Jazz Club
-- Rock Concert
-- Movie Theatre - 70mm Spectacle
+-   Jazz Club
+-   Rock Concert
+-   Movie Theatre - 70mm Spectacle
 
 These modes are cancelled by pressing the `Stereo Effect` button
 
@@ -66,37 +68,38 @@ Input are selected by toggling the left and right buttons next to the large Volu
 
 ### Functions not yet tested
 
-- 6 CH Input
-- Processor Direct
-![](20230202_194106.jpg)
+-   6 CH Input
+-   Processor Direct ![](20230202_194106.jpg)
 
 ## Onkyo CD Recorder DX-RD511
 
-### Specifications^[https://www.hifiengine.com/manual_library/onkyo/dx-rd511.shtml]
+### Specifications[^2]
 
-- Disc format: CD (2 disc multi play)
+[^2]: https://www.hifiengine.com/manual_library/onkyo/dx-rd511.shtml
 
-- Digital converter: 1-bit, 8 x oversampling
+-   Disc format: CD (2 disc multi play)
 
-- Frequency response: 5Hz to 20kHz
+-   Digital converter: 1-bit, 8 x oversampling
 
-- Dynamic range: 90dB
+-   Frequency response: 5Hz to 20kHz
 
-- Signal to Noise Ratio: 100dB
+-   Dynamic range: 90dB
 
-- Channel separation: 100dB
+-   Signal to Noise Ratio: 100dB
 
-- Total harmonic distortion: 0.0056%
+-   Channel separation: 100dB
 
-- Line output: 2V
+-   Total harmonic distortion: 0.0056%
 
-- Digital outputs: coaxial, optical
+-   Line output: 2V
 
-- Dimensions: 435 x 91 x 305mm
+-   Digital outputs: coaxial, optical
 
-- Weight: 4.3kg
+-   Dimensions: 435 x 91 x 305mm
 
-- Accessories: RC-411C remote control
+-   Weight: 4.3kg
+
+-   Accessories: RC-411C remote control
 
 A complicated unit to master
 
