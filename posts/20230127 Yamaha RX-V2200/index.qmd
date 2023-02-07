@@ -1,10 +1,38 @@
 ---
-title: "Yamaha and Onkyo CD"
+title: "FM Radio Stations"
 author: "DK"
 date: "2023-01-28"
-categories: [sound, yamaha, onkyo]
+categories: [sound, yamaha, onkyo, FM]
 image: "20230201_203604.jpg"
 ---
+
+Appreciated living in an area, few hundred feet higher than some.
+
+It is possible to receive FM ^[Frequency Modulation] signals without the use of antennas.
+
+From early age, radio has been a part of my family.
+
+Before starting school, I remembered, I won a contest.
+
+I was entered by my uncle, along with the whole family.
+
+The moment my name was called on the radio was exciting. My uncle tossed me about and congratulated me.
+
+I remember we went to the radio station to pick up the prize.
+
+By the time, fees and taxes were paid, think we had enough for a meal at a Chinese Restaurant.
+
+## FM Radio Stations
+
+Listened to my share of Top 40 and Album Rock stations during teenage years.
+
+Biggest news was when the local Rock Station DC-101, WWDC-AM/FM, hired Howard Stern
+
+Since mission days and intervening years in Provo, the station most listened to has been KBYU-FM, Classical 89.
+
+Of all the formats available, including CDs, Cassettes, Reel to Reel, Minidisc, and even streaming, the FM is still my choice for music and information.
+
+It is a good the signals are strong in my neighborhood.
 
 Early 2000s, A Home Theatre Model
 
