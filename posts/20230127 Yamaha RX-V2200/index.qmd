@@ -24,6 +24,8 @@ By the time, fees and taxes were paid, think we had enough for a meal at a Chine
 
 ## FM Radio Stations
 
+[FM Broadcasting]https://en.wikipedia.org/wiki/FM_broadcasting)
+
 Listened to my share of Top 40 and Album Rock stations during teenage years.
 
 Biggest news was when the local Rock Station DC-101, WWDC-AM/FM, hired Howard Stern
@@ -32,7 +34,23 @@ Since mission days and intervening years in Provo, the station most listened to 
 
 Of all the formats available, including CDs, Cassettes, Reel to Reel, Minidisc, and even streaming, the FM is still my choice for music and information.
 
+Because it requires minimal intervention, once one finds that station.
+
 It is a good the signals are strong in my neighborhood.
+
+## FM Transmission Systems
+
+> Ideally, the antenna for an FM
+broadcast station would be situated at a
+location that would present a clear line-ofsight to the entirety of the desired service
+area. The antenna would have uniform
+horizontal- and vertical-plane radiation
+patterns, and there would be no reflections
+from natural or manmade objects. 
+
+- [Rockwell Media Services](https://rockwellmedia.net/wp-content/uploads/2019/11/FM-Transmission-Systems-White-Paper-2.pdf)
+
+
 
 Early 2000s, A Home Theatre Model
 
