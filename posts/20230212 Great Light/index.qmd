@@ -1,7 +1,7 @@
 ---
 title: "Darkness and Great Light"
 author: "DK"
-date: "2023-02-12"
+date: "2023-02-11"
 format:
   html:
     resources:
@@ -11,14 +11,7 @@ categories: [voices, recording]
 image: "20230209_173446-01.jpeg"
 ---
 
-recorded this audio using the following
-
--   Microphone - Rode NT-1
-
--   Audio Interface/Mixer - Rane MLM 65
-
--   Recording Software - Audacity 2.2.2
-
+Writings of my father
 
 ## Dad's Journal
 
@@ -57,3 +50,15 @@ I am grateful.
         <code>audio</code> element.
 </audio>
 </figure>
+
+
+## Note
+
+recorded this audio using the following
+
+-   Microphone - Rode NT-1
+
+-   Audio Interface/Mixer - Rane MLM 65
+
+-   Recording Software - Audacity 2.2.2
+
