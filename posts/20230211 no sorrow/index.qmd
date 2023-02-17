@@ -1,0 +1,61 @@
+---
+title: "No Death No Sorrow"
+author: "DK"
+date: "2023-02-10"
+format:
+  html:
+    resources:
+      - mom_1jan2015_journal.mp3
+categories: [voices, recording]
+image: "20211108_170818-01.jpeg"
+---
+
+Writings of my mother
+
+## Mom's Journal
+
+![1 January 2015](1jan2015_journal (1).jpg)
+
+<figure>
+<figcaption>Click to listen</figcaption>
+<audio controls src="mom_1jan2015_journal.mp3">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>
+</figure>
+
+> Been cold all day, made it difficult
+Invited by daughter-in-law's sister
+Went over with New Year's Cash on hand
+Enjoyed the meal and handed out cash to 14 persons
+
+> One more addition to the family
+Sam, grand daughter's fiance spent time with us
+
+> Not much got done.  Knitted 3 more dish washing tool.  Older I get more to do, but no energy
+Life at times seems without purpose
+
+> Fell asleep wondering what to do this year
+
+![](20230209_173602.jpg)
+## Mom's Preparations
+
+Mom taught Sunday School until she was in her 80s.
+She prepared throughout the week and often wrote out her lessons.
+
+::: {layout-ncol=2}
+![](Epson_02162023181342 (1).jpg)
+
+![](Epson_02162023181617 (1).jpg)
+:::
+
+
+## Note
+
+recorded this audio using the following
+
+-   Microphone - Rode NT-1
+
+-   Audio Interface/Mixer - Rane MLM 65
+
+-   Recording Software - Audacity 2.2.2
