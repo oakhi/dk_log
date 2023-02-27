@@ -10,7 +10,7 @@ categories: [voices, recording]
 image: "AT.jpg"
 ---
 
-A comparison of Condensor, wireless and USB microphones.
+A comparison of Condenser, wireless and USB microphones.
 
 ## MicroPhones Tested
 
@@ -25,6 +25,8 @@ A comparison of Condensor, wireless and USB microphones.
 ![RANE MLM 65](s-l400.jpg)
 ![](s-l400 (1).jpg)
 
+
+![Test Matrix](mic_test.jpg)
 
 <figure>
 
