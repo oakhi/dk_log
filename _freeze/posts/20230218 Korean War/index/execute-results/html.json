@@ -1,0 +1,14 @@
+{
+  "hash": "842e644822c7974fc8919b0288726397",
+  "result": {
+    "markdown": "---\ntitle: \"Korean War Remembrance\"\nauthor: \"DK\"\ndate: \"2023-02-19\"\ndraft: true\ncategories: [korean war, gratitude]\nimage: \"20230217_180419-01.jpeg\"\n---\n\n\nThank you Ward Wilson for fighting\n\nMy parents knew the war\n\n![Military Participants and Casualties](korean-war-casualties.png)\n\nParticipants, casualties and population estimates are based on Wikipedia entries.\n\n[^1] [^2]\n\n[^1]: https://www.wikiwand.com/en/Korean_War\n\n[^2]: https://en.wikipedia.org/wiki/List_of_countries_by_past_and_projected_future_population\n\n> The Korean War was relatively short but exceptionally bloody. Nearly 5 million people died. More than half of these--about 10 percent of Korea's prewar population--were civilians. (This rate of civilian casualties was higher than World War II's and the Vietnam War's. Almost 40,000 Americans died in action in Korea, and more than 100,000 were wounded.[^3]\n\n[^3]: https://www.history.com/topics/asian-history/korean-war#:\\~:text=Nearly%205%20million%20people%20died,more%20than%20100%2C000%20were%20wounded.\n\n## Utah Involvement in the War\n\nThere were less than 700,000 persons living in Utah at 1950. [^4].\n\n[^4]: https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-47.pdf\n\nYet according to Benjamin Urrutia[^5]\n\n[^5]: https://www.uen.org/utah_history_encyclopedia/k/KOREAN_WAR.shtml\n\n> Although Korea was a United Nations action and fourteen other countries did send 50,000 men, the 350,000 American troops sent to the country made up nearly 90 percent of the United Nations' forces. Among these were 7,564 Utahns who served in Korea on active duty between June 1950 and the cease-fire which was negotiated in July 1953\n\n0.0109804\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

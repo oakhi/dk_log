@@ -1,0 +1,58 @@
+---
+title: "A Microphone Comparison"
+author: "DK"
+date: "2023-02-25"
+format:
+  html:
+    resources:
+      - microphone comparison.mp3
+categories: [voices, recording]
+image: "AT.jpg"
+---
+
+A comparison of Condensor, wireless and USB microphones.
+
+## MicroPhones Tested
+
+![USB Mic Plantronics P610](20230226_154003.jpg)
+
+![Rode NT 1](20230226_154022.jpg)
+
+![Audio-Technic ATW-T202](20230226_154028.jpg)
+
+## Audio Interface / Mixer with a USB
+  
+![RANE MLM 65](s-l400.jpg)
+![](s-l400 (1).jpg)
+
+
+<figure>
+
+<figcaption>Click to listen</figcaption>
+
+<audio controls src="microphone comparison.mp3">
+
+Your browser does not support the <code>audio</code> element.
+
+</audio>
+
+</figure>
+
+## Computer Settings
+
+- Built-in Mic had a 10 dB gain, along with gain of 61
+- USB Mic had gain set at 75
+- RANE MLM 65 had gain set at 89.
+
+## Note
+
+recorded this audio using the following
+
+-   Microphone - Rode NT-1
+-   Microphone - Audio Technica ATW T-202
+-   USB Microphone - Plantronics P-610
+-   Built in Mic - RealTek
+
+-   Audio Interface/Mixer - Rane MLM 65
+
+-   Recording Software - Audacity 2.2.2

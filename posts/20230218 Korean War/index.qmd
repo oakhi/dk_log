@@ -1,0 +1,49 @@
+---
+title: "Korean War Remembrance"
+author: "DK"
+date: "2023-02-18"
+categories: [korean war, gratitude]
+image: "20221015_183636-01.jpeg"
+---
+
+Thankful to those that came to Korea when the call was issued.
+
+![Military Participants and Casualties](korean-war-casualties.png)
+
+Participants, casualties and population estimates are based on Wikipedia entries.
+
+[^1] [^2]
+
+[^1]: https://www.wikiwand.com/en/Korean_War
+
+[^2]: https://en.wikipedia.org/wiki/List_of_countries_by_past_and_projected_future_population
+
+> The Korean War was relatively short but exceptionally bloody. Nearly 5 million people died. More than half of these--about 10 percent of Korea's prewar population--were civilians. (This rate of civilian casualties was higher than World War II's and the Vietnam War's. Almost 40,000 Americans died in action in Korea, and more than 100,000 were wounded.[^3]
+
+[^3]: https://www.history.com/topics/asian-history/korean-war#:\~:text=Nearly%205%20million%20people%20died,more%20than%20100%2C000%20were%20wounded.
+
+## Utah Involvement in the War
+
+There were less than 700,000 persons living in Utah at 1950. [^4].
+
+[^4]: https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-47.pdf
+
+Yet according to Benjamin Urrutia[^5]
+
+[^5]: https://www.uen.org/utah_history_encyclopedia/k/KOREAN_WAR.shtml
+
+> Although Korea was a United Nations action and fourteen other countries did send 50,000 men, the 350,000 American troops sent to the country made up nearly 90 percent of the United Nations' forces. Among these were 7,564 Utahns who served in Korea on active duty between June 1950 and the cease-fire which was negotiated in July 1953
+
+`r 7564/688862` rate of Utahns that served active duty during the Korean War.
+
+Approximately 1100 persons per 100000 residents from Utah served in the Korean War.
+
+> More than 20,000 Utah veterans served in the Korean War. Around 12,000 live in the Beehive State now.[^6]
+
+[^6]: https://ksltv.com/465470/top-south-korean-diplomat-thanks-utah-veterans-for-sacrifices/
+
+(The difference between 7564 active duty versus the overall participation number of 20000 is noted)
+
+At the time of writing, June 2021, there were estimated to be 12,000 Korean Ward veterans living in Utah.
+
+Thank you Ward Wilson and others for your sacrifice.
