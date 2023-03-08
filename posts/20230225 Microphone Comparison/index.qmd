@@ -1,60 +1,104 @@
 ---
-title: "A Microphone Comparison"
+title: "Learning the Healer's Art"
 author: "DK"
-date: "2023-02-25"
-format:
-  html:
-    resources:
-      - microphone comparison.mp3
-categories: [voices, recording]
-image: "AT.jpg"
+date: "2023-03-05"
+categories: [healing]
+image: "20230303_172855-01.jpeg"
 ---
 
-A comparison of Condenser, wireless and USB microphones.
+Bishop mentioned the concept of `Healer's Art`.
 
-## MicroPhones Tested
+Refer to a talk given at a BYU Devotional, by Elaine
+Marshall^[https://speeches.byu.edu/talks/elaine-s-marshall/learning-healers-art/].
 
-![USB Mic Plantronics P610](20230226_154003.jpg)
+> Such secret healing is not a single event. It happens as a process of
+> living. You cannot simply take off a day or start tomorrow like a new
+> diet and return healed. It happens quietly while you face the pain. It
+> happens over time as you live, work, study, and give to others.
 
-![Rode NT 1](20230226_154022.jpg)
+Bishop is a surgeon.
 
-![Audio-Technic ATW-T202](20230226_154028.jpg)
+He took the road to learning the `Healer's Art`, when then Apostle
+Russell M. Nelson, encouraged young people to consider the path towards
+a Medical Doctor.
 
-## Audio Interface / Mixer with a USB
-  
-![RANE MLM 65](s-l400.jpg)
-![](s-l400 (1).jpg)
+Thought of my parents stay in Utah.
 
+Not only did they expressed their happiness in living their retirement days in Utah but it also extended their lives.
 
-![Test Matrix](mic_test.jpg)
+Through dedication and care of skilled surgeon and my parents were able to overcome the effects subdural
+hematomas^[https://my.clevelandclinic.org/health/diseases/21183-subdural-hematoma] and gradual failure of renal functions.
 
-<figure>
+> I would be my brother’s keeper;
+I would learn the healer’s art.
+To the wounded and the weary
+I would show a gentle heart.
+I would be my brother’s keeper—
+Lord, I would follow thee.
 
-<figcaption>Click to listen</figcaption>
+- Text: Susan Evans McCloud, b. 1945. © 1985 IRI
+- Lord, I Would Follow
+Thee^[https://www.churchofjesuschrist.org/music/library/hymns/lord-i-would-follow-thee?lang=eng&_r=1]
 
-<audio controls src="microphone comparison.mp3">
+Went up to the front and told the congregation, how grateful that my parents were able to live out their last days among them.
 
-Your browser does not support the <code>audio</code> element.
+Felt comfortable standing in the front.
 
-</audio>
+To think, I did this regularly for the past 5 years.
 
-</figure>
+![](20230305_172020.jpg)
 
-## Computer Settings
+# A Great Feast
 
-- Built-in Mic had a 10 dB gain, along with gain of 61
-- USB Mic had gain set at 75
-- RANE MLM 65 had gain set at 89.
+Later in the day, invited several families and enjoyed their company and some traditional Korean food.
 
-## Note
+# Participating Families
 
-recorded this audio using the following
+## Allens
 
--   Microphone - Rode NT-1
--   Microphone - Audio Technica ATW T-202
--   USB Microphone - Plantronics P-610
--   Built in Mic - RealTek
+- Verl
+- Nancy
+- Noah
+- Kelly Jean
 
--   Audio Interface/Mixer - Rane MLM 65
+## Deccios
 
--   Recording Software - Audacity 2.2.2
+- Casey
+- Talia
+- Hyrum
+- Ezra
+- Selah
+- Asher
+
+## Waits
+
+- Jerry
+- Nancy
+
+## Harpers
+
+- Jeff
+- Kim
+
+## Aidukaitis
+
+- Julie
+
+## Lee 
+
+- Bo Young
+
+## Seniloli
+
+- Henry
+- Malissa
+- Irene
+
+## Kangs
+
+- David
+- June
+- Sean
+- Sydney
+- Kaia
+- Christian

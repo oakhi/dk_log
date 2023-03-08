@@ -1,0 +1,64 @@
+---
+title: "Darkness and Great Light"
+author: "DK"
+date: "2023-02-11"
+format:
+  html:
+    resources:
+      - isaiah_9_2_seen_great_light.mp3
+      - dad_9april2011_journal.mp3
+categories: [voices, recording]
+image: "20230209_173446-01.jpeg"
+---
+
+Writings of my father
+
+## Dad's Journal
+
+![9 April 2011](Epson_01252023194746.jpg)
+
+<figure>
+<figcaption>Click to listen</figcaption>
+<audio controls src="dad_9april2011_journal.mp3">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>
+</figure>
+
+> Got up at 7:30..
+Been snowing since last night.
+Snow up in the mountain.
+Where we live, snow has melted.
+
+> Didn't go out, waited for the son.
+Son came with Min and Chan.
+
+> Together, went to the restaurant.
+Helped with dishes and sliced meat afterwards.
+
+> Today was a good day -- for business.
+I am grateful.
+
+> Came home at 9:30, brought back items to fertilize the garden.
+
+![](20230209_173602.jpg)
+
+<figure>
+<figcaption>Isaiah 9:2</figcaption>
+<audio controls src="isaiah_9_2_seen_great_light.mp3">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>
+</figure>
+
+
+## Note
+
+recorded this audio using the following
+
+-   Microphone - Rode NT-1
+
+-   Audio Interface/Mixer - Rane MLM 65
+
+-   Recording Software - Audacity 2.2.2
+
