@@ -1,104 +1,35 @@
 ---
-title: "Learning the Healer's Art"
+title: "Microphone Comparison"
 author: "DK"
-date: "2023-03-05"
-categories: [healing]
-image: "20230303_172855-01.jpeg"
+format:
+  html:
+    resources:
+      - microphone comparison.mp3
+date: "2023-02-25"
+categories: [recording, microphone]
+image: "AT.jpg"
 ---
 
-Bishop mentioned the concept of `Healer's Art`.
+Compared several condenser and built-in microphones
 
-Refer to a talk given at a BYU Devotional, by Elaine
-Marshall^[https://speeches.byu.edu/talks/elaine-s-marshall/learning-healers-art/].
+![](mic_test.jpg)
 
-> Such secret healing is not a single event. It happens as a process of
-> living. You cannot simply take off a day or start tomorrow like a new
-> diet and return healed. It happens quietly while you face the pain. It
-> happens over time as you live, work, study, and give to others.
+<figure>
 
-Bishop is a surgeon.
+<figcaption>Click to listen</figcaption>
 
-He took the road to learning the `Healer's Art`, when then Apostle
-Russell M. Nelson, encouraged young people to consider the path towards
-a Medical Doctor.
+<audio controls src="microphone comparison.mp3">
 
-Thought of my parents stay in Utah.
+Your browser does not support the <code>audio</code> element.
 
-Not only did they expressed their happiness in living their retirement days in Utah but it also extended their lives.
+</audio>
 
-Through dedication and care of skilled surgeon and my parents were able to overcome the effects subdural
-hematomas^[https://my.clevelandclinic.org/health/diseases/21183-subdural-hematoma] and gradual failure of renal functions.
+</figure>
 
-> I would be my brother’s keeper;
-I would learn the healer’s art.
-To the wounded and the weary
-I would show a gentle heart.
-I would be my brother’s keeper—
-Lord, I would follow thee.
+![](20230226_154003.jpg)
+![](20230226_154022.jpg)
+![](20230226_154028.jpg)
 
-- Text: Susan Evans McCloud, b. 1945. © 1985 IRI
-- Lord, I Would Follow
-Thee^[https://www.churchofjesuschrist.org/music/library/hymns/lord-i-would-follow-thee?lang=eng&_r=1]
+![](s-l400.jpg)
 
-Went up to the front and told the congregation, how grateful that my parents were able to live out their last days among them.
-
-Felt comfortable standing in the front.
-
-To think, I did this regularly for the past 5 years.
-
-![](20230305_172020.jpg)
-
-# A Great Feast
-
-Later in the day, invited several families and enjoyed their company and some traditional Korean food.
-
-# Participating Families
-
-## Allens
-
-- Verl
-- Nancy
-- Noah
-- Kelly Jean
-
-## Deccios
-
-- Casey
-- Talia
-- Hyrum
-- Ezra
-- Selah
-- Asher
-
-## Waits
-
-- Jerry
-- Nancy
-
-## Harpers
-
-- Jeff
-- Kim
-
-## Aidukaitis
-
-- Julie
-
-## Lee 
-
-- Bo Young
-
-## Seniloli
-
-- Henry
-- Malissa
-- Irene
-
-## Kangs
-
-- David
-- June
-- Sean
-- Sydney
-- Kaia
-- Christian
+![](s-l400 (1).jpg)

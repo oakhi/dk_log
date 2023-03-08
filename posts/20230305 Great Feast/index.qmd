@@ -1,64 +1,97 @@
 ---
-title: "Darkness and Great Light"
+title: "Learning the Healer's Art"
 author: "DK"
-date: "2023-02-11"
-format:
-  html:
-    resources:
-      - isaiah_9_2_seen_great_light.mp3
-      - dad_9april2011_journal.mp3
-categories: [voices, recording]
-image: "20230209_173446-01.jpeg"
+date: "2023-03-05"
+categories: [healing]
+image: "20230303_172855-01.jpeg"
 ---
 
-Writings of my father
+Bishop mentioned the concept of `Healer's Art`.
 
-## Dad's Journal
+Refer to a talk given at a BYU Devotional, by Elaine Marshall[^1].
 
-![9 April 2011](Epson_01252023194746.jpg)
+[^1]: https://speeches.byu.edu/talks/elaine-s-marshall/learning-healers-art/
 
-<figure>
-<figcaption>Click to listen</figcaption>
-<audio controls src="dad_9april2011_journal.mp3">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>
-</figure>
+> Such secret healing is not a single event. It happens as a process of living. You cannot simply take off a day or start tomorrow like a new diet and return healed. It happens quietly while you face the pain. It happens over time as you live, work, study, and give to others.
 
-> Got up at 7:30..
-Been snowing since last night.
-Snow up in the mountain.
-Where we live, snow has melted.
+Bishop is a surgeon.
 
-> Didn't go out, waited for the son.
-Son came with Min and Chan.
+He took the road to learning the `Healer's Art`, when then Apostle Russell M. Nelson, encouraged young people to consider the path towards a Medical Doctor.
 
-> Together, went to the restaurant.
-Helped with dishes and sliced meat afterwards.
+Thought of my parents stay in Utah.
 
-> Today was a good day -- for business.
-I am grateful.
+Not only did they expressed their happiness in living their retirement days in Utah but it also extended their lives.
 
-> Came home at 9:30, brought back items to fertilize the garden.
+Through dedication and care of skilled surgeon and my parents were able to overcome the effects subdural hematomas[^2] and gradual failure of renal functions.
 
-![](20230209_173602.jpg)
+[^2]: https://my.clevelandclinic.org/health/diseases/21183-subdural-hematoma
 
-<figure>
-<figcaption>Isaiah 9:2</figcaption>
-<audio controls src="isaiah_9_2_seen_great_light.mp3">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>
-</figure>
+> I would be my brother's keeper; I would learn the healer's art. To the wounded and the weary I would show a gentle heart. I would be my brother's keeper--- Lord, I would follow thee.
 
+-   Text: Susan Evans McCloud, b. 1945. © 1985 IRI
+-   Lord, I Would Follow Thee[^3]
 
-## Note
+[^3]: https://www.churchofjesuschrist.org/music/library/hymns/lord-i-would-follow-thee?lang=eng&\_r=1
 
-recorded this audio using the following
+Went up to the front and told the congregation, how grateful that my parents were able to live out their last days among them.
 
--   Microphone - Rode NT-1
+Felt comfortable standing in the front.
 
--   Audio Interface/Mixer - Rane MLM 65
+To think, I did this regularly for the past 5 years.
 
--   Recording Software - Audacity 2.2.2
+![](20230305_172020.jpg)
 
+# A Great Feast
+
+Later in the day, invited several families and enjoyed their company and some traditional Korean food.
+
+# Participating Families
+
+## Allens
+
+-   Verl
+-   Nancy
+-   Noah
+-   Kelly Jean
+
+## Deccios
+
+-   Casey
+-   Talia
+-   Hyrum
+-   Ezra
+-   Selah
+-   Asher
+
+## Waits
+
+-   Jerry
+-   Nancy
+
+## Harpers
+
+-   Jeff
+-   Kim
+
+## Aidukaitis
+
+-   Julie
+
+## Lee
+
+-   Bo Young
+
+## Seniloli
+
+-   Henry
+-   Malissa
+-   Irene
+
+## Kangs
+
+-   David
+-   June
+-   Sean
+-   Sydney
+-   Kaia
+-   Christian
